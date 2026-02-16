@@ -57,6 +57,6 @@ If you find this code, data, or methodology useful in your research, please cons
 
 ## ✉️ Contact
 
-For any questions, discussions, or data requests, please feel free to open an issue in this repository or contact the corresponding authors:
+For any questions, discussions, or data requests, please feel free to open an issue in this repository or contact the authors:
 - **Xue Li**: xli@tjnu.edu.cn
 - **Jian Sha**: shajian@tjnu.edu.cn
