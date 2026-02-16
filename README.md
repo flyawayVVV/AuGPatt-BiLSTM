@@ -24,10 +24,8 @@ The framework has been rigorously validated across multiple spatial scales, from
     ├── Code/                    # Source code for the AuGPatt-BiLSTM framework and three ablation study variants
     │
     ├── Results/                 # Model simulation outputs vs. observed data (Testing phase)
-    │   ├── Tongguan.csv         # Mainstream catchment (Yellow River Basin)
-    │   ├── Huaxian.csv          # Tributary catchment (Yellow River Basin)
-    │   ├── Animas_River.csv     # Medium-scale catchment (US CAMELS dataset)
-    │   └── Jacob_Fork.csv       # Micro-scale flashy catchment (US CAMELS dataset)
+    │   ├── Results of Animas River     # Medium-scale catchment (US CAMELS dataset)
+    │   └── Results of Jacob Fork       # Micro-scale flashy catchment (US CAMELS dataset)
     │
     └── README.md                # Project documentation
 
