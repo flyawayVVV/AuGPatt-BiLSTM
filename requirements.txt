@@ -1,0 +1,7 @@
+numpy
+pandas
+openpyxl
+torch
+scikit-learn
+statsmodels
+EMD-signal
